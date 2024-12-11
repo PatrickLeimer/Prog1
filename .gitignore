@@ -1,0 +1,8 @@
+# Ignore the .idea directory (IDE settings)
+.idea/
+
+# Ignore the Leetcode directory
+Leetcode/
+
+# Ignore the Sudoku directory
+Sudoku/
